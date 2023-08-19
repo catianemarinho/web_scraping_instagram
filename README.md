@@ -1,6 +1,7 @@
 # Web Scraping do Instagram com Python e Selenium
-
-
+<div align="center">
+  <img src="https://github.com/catianemarinho/web_scraping_instagram/assets/97571709/9671f32c-0c10-40bd-bbb3-4aab31014dc2">
+</div>
 
 Este é um projeto de exemplo que demonstra como realizar web scraping no Instagram usando a linguagem de programação Python e a biblioteca Selenium.
 
@@ -50,7 +51,9 @@ Contribuições são bem-vindas! Se você encontrar bugs, melhorias ou novas fun
 
 # Instagram Web Scraping with Python and Selenium
 
-
+<div align="center">
+  <img src="https://github.com/catianemarinho/web_scraping_instagram/assets/97571709/9671f32c-0c10-40bd-bbb3-4aab31014dc2">
+</div>
 
 This is an example project demonstrating how to perform web scraping on Instagram using the Python programming language and the Selenium library.
 
